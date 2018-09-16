@@ -11,6 +11,7 @@ import (
 )
 
 var csvFile string
+
 // for each question
 var timerDuration int
 
